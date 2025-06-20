@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.EmployeeManagementSystem" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#619b8a</item>
+        <item name="colorPrimaryVariant">#4e8373</item>
+        <item name="android:statusBarColor">#619b8a</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+</resources>
